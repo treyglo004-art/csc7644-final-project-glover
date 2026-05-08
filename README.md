@@ -24,5 +24,4 @@ User Question → Document Search → Retrieved Course Material → Answer Outpu
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/csc7644-final-project-glover.git
-   cd csc7644-final-project-glover
+   git clone https://github.com/treyglo004-art/csc7644-final-project-glover.git
