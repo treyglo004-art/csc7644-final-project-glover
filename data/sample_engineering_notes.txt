@@ -1,0 +1,7 @@
+Ohm’s Law states that voltage equals current multiplied by resistance.
+Formula: V = I × R
+
+Stress in materials engineering is force divided by area.
+Formula: stress = force / area
+
+A control system uses inputs, processing logic, and outputs to regulate a process.
