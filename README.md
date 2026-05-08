@@ -59,13 +59,16 @@ Main Files
 - requirements.txt → Python dependencies
 - .env.example → Example environment variables
 - .gitignore → Prevents sensitive files from being uploaded
+
 Data Folder
 - data/sample_engineering_notes.txt → Engineering notes used for retrieval
+
 Source Folder
 - src/data_loader.py → Document loading logic
 - src/retriever.py → Retrieval logic
 - src/llm_client.py → Future LLM integration
 - src/rag_pipeline.py → Future pipeline orchestration
+
 Evaluation Folder
 - evaluation/test_questions.py → Testing questions
 
